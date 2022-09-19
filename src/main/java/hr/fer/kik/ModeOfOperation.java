@@ -3,7 +3,7 @@ package hr.fer.kik;
 /**
  * Supported modes of operation
  * 
- * @author Ivan
+ * @author Ivan Lokas
  *
  */
 public enum ModeOfOperation {
