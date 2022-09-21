@@ -2,12 +2,12 @@
 
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>hr.fer</groupId>
-	<artifactId>application</artifactId>
+	<groupId>hr.fer.kik</groupId>
+	<artifactId>Lab1</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>
 
-	<name>application</name>
+	<name>AES-128</name>
 
 	<properties>
 		<maven.compiler.source>18</maven.compiler.source>
@@ -26,4 +26,3 @@
 	</dependencies>
 
 </project>
-
